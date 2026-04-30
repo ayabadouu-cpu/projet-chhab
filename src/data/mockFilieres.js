@@ -1,0 +1,42 @@
+export const mockFilieres = [
+  {
+    id: 1,
+    code: 'DEV',
+    intitule: 'Développement Digital',
+    niveau: 'Technicien Spécialisé',
+    duree: '2 ans',
+    secteur: 'Numérique',
+  },
+  {
+    id: 2,
+    code: 'TRI',
+    intitule: 'Techniques des Réseaux Informatiques',
+    niveau: 'Technicien Spécialisé',
+    duree: '2 ans',
+    secteur: 'Numérique',
+  },
+  {
+    id: 3,
+    code: 'GE',
+    intitule: 'Gestion d\'Entreprises',
+    niveau: 'Technicien Spécialisé',
+    duree: '2 ans',
+    secteur: 'Tertiaire',
+  },
+  {
+    id: 4,
+    code: 'COM',
+    intitule: 'Commerce',
+    niveau: 'Technicien',
+    duree: '2 ans',
+    secteur: 'Tertiaire',
+  },
+  {
+    id: 5,
+    code: 'IDOSR',
+    intitule: 'Infrastructure Digitale Option Systèmes et Réseaux',
+    niveau: 'Technicien Spécialisé',
+    duree: '2 ans',
+    secteur: 'Numérique',
+  },
+];
